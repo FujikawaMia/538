@@ -1,0 +1,23 @@
+| ------------        | --------------------------------------------- |
+| SD1.4               | `CompVis/stable-diffusion-v1-4`               |
+| SD1.5               | `runwayml/stable-diffusion-v1-5`              |
+| SD2.0 Base          | `stabilityai/stable-diffusion-2-base`         |
+| SD2.0               | `stabilityai/stable-diffusion-2`              |
+| SD2.1               | `stabilityai/stable-diffusion-2-1`            |
+| SDXL Base           | `stabilityai/stable-diffusion-xl-base-1.0`    |
+| SDXL Refiner        | `stabilityai/stable-diffusion-xl-refiner-1.0` |
+| SDXL Lightning      | `ByteDance/SDXL-Lightning`                    |
+| SD3 Large           | `stabilityai/stable-diffusion-3.5-large`      |
+| SD3 Medium          | `stabilityai/stable-diffusion-3.5-medium`     |
+| SD3 Large Turbo     | `stabilityai/stable-diffusion-3.5-large-turbo`|
+| FLUX Dev            | `black-forest-labs/FLUX.1-dev`                |
+| FLUX Schnell        | `black-forest-labs/FLUX.1-schnell`            |
+| DreamShaper         | `Lykon/DreamShaper`                           |
+| Realistic Vision    | `SG161222/Realistic_Vision_V5.1`              |
+| Anything V5         | `anything-v5/anything-v5`                     |
+| ChilloutMix         | `civitai/ChilloutMix`                         |
+| Protogen x5.8       | `darkstorm2150/Protogen_x5.8`                 |
+| Juggernaut XL       | `RunDiffusion/Juggernaut-XL`                  |
+| AbsoluteReality     | `Lykon/AbsoluteReality`                       |
+
+
